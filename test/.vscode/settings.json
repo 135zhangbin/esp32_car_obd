@@ -1,0 +1,25 @@
+{
+    "idf.portWin": "COM7",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "files.associations": {
+        "obd_simulator.h": "c",
+        "stddef.h": "c",
+        "sdkconfig.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "string": "c",
+        "limits": "c",
+        "memory": "c",
+        "new": "c",
+        "functional": "c",
+        "typeinfo": "c",
+        "example_ble_sec_gatts_demo.h": "c",
+        "esp_gap_ble_api.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
